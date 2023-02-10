@@ -212,3 +212,8 @@
   });
 
 })()
+\*inicio do codigo js do modal*\
+
+$(document).ready(function () {
+  $("#cookieModal").modal("show");
+});
